@@ -1,0 +1,17 @@
+# Ignore Git history
+.git
+.gitignore
+
+# Ignore Docker related files
+.dockerignore
+Dockerfile
+
+# Ignore IDE and OS specific files
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignore local environment folders
+.venv
+venv/
+env/
